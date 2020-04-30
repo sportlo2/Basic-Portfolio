@@ -1,9 +1,10 @@
 body {
-    background-image: url("assets/images/concrete_seamless");
+    background-image: url("../Assets/images/concrete_seamless.png");
     background-size: cover;
     background-repeat:no-repeat;
 
 }
+
 
 
 footer {
