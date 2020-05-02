@@ -1,12 +1,59 @@
+#wrap {
+    width: auto;
+    margin-left: auto;
+}
+
 body {
-    background-image: url("assets/images/concrete_seamless");
+    background-image: url("../images/concrete_seamless.png");
     background-size: cover;
     background-repeat:no-repeat;
+    
 
 }
 
+#logo {
+    color: white;
+    background-color: teal;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 
+}
 
+#navbarNav {
+    color: grey;
+
+}
+
+.main-header {
+    color: teal;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#block {
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: grey;
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 400px;
+}
+
+#image {
+    float: left;
+    margin-right: 20px;
+}
 footer {
+bottom: 0px;
+text-align: center;
+background-color: rgba(104, 110, 110, 0.801);
+color: white;
+position: fixed;
+width: 100%;
+height: 40px;
+border-top: teal;
+border-width: 50px;
 
 }
