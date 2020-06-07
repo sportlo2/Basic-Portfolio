@@ -18,12 +18,10 @@ body {
     font-size: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 
-}
-
-#navbarNav {
-    color: grey;
 
 }
+
+
 
 .main-header {
     color: teal;
@@ -35,10 +33,17 @@ body {
     background-color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: grey;
-    margin-top: 30px;
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-bottom: 400px;
+    margin: auto;
+    margin-top: 50px;
+    width: auto;
+}
+
+a {
+    color: goldenrod;
+    font-weight: bold;
+}
+a:hover {
+    color: teal;
 }
 
 #image {
