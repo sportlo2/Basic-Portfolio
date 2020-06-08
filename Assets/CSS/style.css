@@ -44,6 +44,12 @@ a {
     color: goldenrod;
     font-weight: bold;
 }
+
+.textColor {
+    color: goldenrod;
+    font-weight: bold;
+
+}
 a:hover {
     color: teal;
 }
